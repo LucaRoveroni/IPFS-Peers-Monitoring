@@ -1,0 +1,16 @@
+{
+  "name": "ipfs-monitor",
+  "version": "1.0.0",
+  "description": "A simple NodeJS IPFS Monitor App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Luca Roveroni",
+  "license": "ISC",
+  "dependencies": {
+    "geoip-lite": "^1.4.1",
+    "ipfs": "^0.42.0",
+    "superagent": "^5.2.2"
+  }
+}

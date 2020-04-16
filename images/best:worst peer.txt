@@ -1,0 +1,4 @@
+Peer with best latency:
+('QmaaQHhykT1XEqNt2X2peVXegiMF2jEhSVWjLGZ3aQzFmZ', (16.125708, 'FR', '', '193.70.64.150'))
+Peer with worst latency:
+('QmbhtyYqqEKSv566eUuYPiQK6sCW4QbnieajmgzwH8PQ9G', (47154.255559, 'CN', 'Beijing', '49.233.177.100'))
